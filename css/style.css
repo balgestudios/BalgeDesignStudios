@@ -74,6 +74,11 @@ footer   {
   padding: 10px;
   text-align: center;
 }
+
+footer span {
+  font-size: 10px;
+}
+
 footer img   {
   display: block;
   border-radius: 5px;
@@ -183,9 +188,10 @@ footer img   {
   border-radius: 4px;
   margin-bottom: 15px;
 }
-.testimonial-author           {
+.testimonial-author {
 
 }
+
 .testimonial-author img {
   float: left;
   width: 80px;
@@ -193,18 +199,20 @@ footer img   {
   margin-right: 15px;
   vertical-align: middle;
 }
-.testimonial-author h5   {
+.testimonial-author h5 {
   font-size: 18px;
   margin: 0;
   padding-top:15px;
   color: #eaf2e5;
 }
+
 .testimonial-author span {
   font-size: 14px;
   color: #eaf2e5;
 }
 
-
-footer span a:link {
+.footer_logo_link {
+  font-size: 14px;
+  color: #7d9268;
   text-decoration: none;
 }
