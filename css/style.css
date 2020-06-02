@@ -93,14 +93,52 @@ footer img   {
   background-image: url('../img/leaf.gif');
   background-size: cover;
 }
-.hero-content   {
+
+.hero_pp {
+  min-height: 300px;
+  text-align: center;
+  /* background-image: url('../img/leaf.gif'); */
+  background-size: cover;
+}
+
+.hero-content {
   padding-top: 130px;
 }
+
 .hero-content h1   {
   font-size: 50px;
   color: #7d9268;
   margin: 0;
 }
+
+h2 {
+  font-size: 50px;
+  color: #7d9268;
+  margin: 0;
+}
+
+.hero-content_pp {
+  padding-top: 100px;
+}
+
+.hero-content_pp h1 {
+  font-size: 60px;
+  color: #537588;
+  margin: 0;
+}
+
+.hero_left {
+  padding-left: 100px;
+}
+
+.hero_left p    {
+  font-size: 20px;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 20px;
+  color: #7d9268;
+}
+
 .hero-content p    {
   font-size: 20px;
   width: 50%;
@@ -108,6 +146,15 @@ footer img   {
   margin-bottom: 90px;
   color: #7d9268;
 }
+
+.hero-content_pp p    {
+  font-size: 14px;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 90px;
+  color: #7d9268;
+}
+
 .hero-content a    {
   display: inline-block;
   color: #7d9268;
